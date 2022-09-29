@@ -22,7 +22,11 @@ export const TransactionHistory = ({items}) => {
 };
 
 TransactionHistory.propTypes = {
-    items: PropTypes.array.isRequired,
+    items: PropTypes.arrayof(
+        PropTypes.exact({
+    id: PropTypes.number.isRequired,
+        })
+    ).isRequired,
 }
 
 
