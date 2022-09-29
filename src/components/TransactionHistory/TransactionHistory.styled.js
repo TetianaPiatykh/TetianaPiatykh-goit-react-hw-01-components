@@ -8,7 +8,7 @@ export const Table = styled.table`
 // border: 2px solid black;
 width: 500px;
 font-size: 16px;
-margin-top: 30px;
+margin-bottom: 30px;
 `;
 
 export const Thead = styled.th`

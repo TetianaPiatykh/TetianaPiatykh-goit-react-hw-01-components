@@ -5,5 +5,5 @@ width: 330px;
 // padding: 15px;
 
 background-color: white;
-margin-bottom: 15px;
+margin-bottom: 30px;
 `;

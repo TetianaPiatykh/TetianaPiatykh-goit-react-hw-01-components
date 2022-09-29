@@ -7,10 +7,11 @@ export const AppStyle = styled.div`
 
 export const ProfileUser = styled.div`
  display: block;
- margin-top: 0;
- margin-bottom: 20px;
- margin-left: auto;
- margin-right: auto;
+  margin: 30px auto;
+//  margin-top: 0;
+//  margin-bottom: 30px;
+//  margin-left: auto;
+//  margin-right: auto;
  width: 300px;
  padding: 15px;
  background-color: white;

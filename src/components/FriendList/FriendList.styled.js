@@ -9,5 +9,6 @@ width: 330px;
 background-color: white;
 flex-direction: column;
 gap: 20px;
+margin-bottom: 30px;
 
 `;
