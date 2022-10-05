@@ -14,7 +14,7 @@ export const StatisticsList = ({ data }) => {
 
 
 StatisticsList.propTypes = {
-    data: PropTypes.arrayof(
+    data: PropTypes.arrayoff(
         PropTypes.exact({
     id: PropTypes.number.isRequired,
         })
